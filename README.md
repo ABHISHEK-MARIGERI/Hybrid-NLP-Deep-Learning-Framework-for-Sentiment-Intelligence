@@ -52,14 +52,16 @@ RNN_for_sentimentanalysis/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/RNN_for_sentimentanalysis.git
-cd RNN_for_sentimentanalysis
+git clone  https://github.com/ABHISHEK-MARIGERI/Hybrid-NLP-Deep-Learning-Framework-for-Sentiment-Intelligence.git
+cd Hybrid-NLP-Deep-Learning-Framework-for-Sentiment-Intelligence
 ```
+
+---
 
 ### 2. Install dependencies
 
 ```bash
-pip install torch numpy matplotlib
+pip install torch numpy matplotlib scikit-learn nltk
 ```
 
 ---
@@ -67,7 +69,7 @@ pip install torch numpy matplotlib
 ## ▶️ How to Run
 
 ```bash
-jupyter notebook RNN_for_sentimentanalysis.ipynb
+jupyter notebook RNN_NLP.ipynb
 ```
 
 Run all cells sequentially.
