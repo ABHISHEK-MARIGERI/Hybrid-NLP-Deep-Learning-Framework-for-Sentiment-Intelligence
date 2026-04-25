@@ -1,4 +1,4 @@
-# 🧠 RNN for Sentiment Analysis
+# 🧠 Hybrid-NLP-Deep-Learning-Framework-for-Sentiment-Intelligence
 
 This project implements a **Recurrent Neural Network (RNN)** model for performing **sentiment analysis** on text data. The model classifies text (such as reviews or sentences) into **positive or negative sentiment**.
 
